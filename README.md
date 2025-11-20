@@ -26,3 +26,4 @@ Katherine Alberto 💛
 
 ### Prueba
 Agregamos una línea más
+Descripci�n: repo de pruebas para ejercicio
